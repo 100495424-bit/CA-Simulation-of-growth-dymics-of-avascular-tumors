@@ -23,7 +23,7 @@ margin=5;
 
 %Treatment
 
-t_RT=30;
+t_RT=50;
 t_QT=50;
 
 
